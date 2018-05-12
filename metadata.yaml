@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '3424'
     url: http://www.gutenberg.org/2009/agents/3424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37486#The-Outdoor-Chums-on-the-LakeLively-Adventures-on-Wildcat-Island
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
 identifiers:
